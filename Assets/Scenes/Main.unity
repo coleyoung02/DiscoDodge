@@ -702,7 +702,7 @@ MonoBehaviour:
   speedBoost: 2.5
   dodgeTime: 0.5
   dodgeCooldown: 5
-  maxHealth: 0
+  maxHealth: 3
 --- !u!1 &1268040423
 GameObject:
   m_ObjectHideFlags: 0
